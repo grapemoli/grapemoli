@@ -10,5 +10,4 @@
   - https://github.com/grapemoli/Tic-Tac-Toe
 
 # Contact Information
-School Email: gtnguyen@outlook.com (deprecated)
-Other Email: wanbamgara@gmail.com
+Email: wanbamgara@gmail.com
