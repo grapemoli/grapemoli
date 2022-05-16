@@ -3,5 +3,8 @@
 
 # Projects
 1. Web-App Pokedex - 12/10/21
+  - https://github.com/grapemoli/PokeDex
 2. MGOT (Plant-Care Simulation) - 04/25/22
+  - https://github.com/grapemoli/MGOT
 3. Tic-Tac-Toe - 05/16/22
+  - https://github.com/grapemoli/Tic-Tac-Toe
