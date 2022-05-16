@@ -10,4 +10,4 @@
   - https://github.com/grapemoli/Tic-Tac-Toe
 
 # Contact Information
-Email: wanbamgara@gmail.com
+Email: wambamgara@gmail.com
