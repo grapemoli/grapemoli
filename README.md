@@ -1,6 +1,8 @@
 # Introduction
 👋 Hi, I’m @grapemoli, a Sophpmore working towards a BS in Computer Science. The name is inspired by grapes and guacamoli. Both are great.
 
+You can also view the projects at the following webpage: grapemoli.github.io
+
 # Projects Timeline
 1. Web-App Pokedex - 12/10/2021
   - https://github.com/grapemoli/PokeDex
