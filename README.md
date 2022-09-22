@@ -19,4 +19,5 @@ Relevant courses that I took are Data Structures and a myriad of math classes (M
 
 
 # Contact Information
+Name: Grace Nguyen
 Email: wambamgara@gmail.com
