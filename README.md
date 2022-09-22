@@ -1,11 +1,9 @@
 # Introduction
 👋 Hi, I’m @grapemoli, a Junior working towards a BS in Computer Science. The name is inspired by grapes and guacamoli. Both are great.
 
-While I do have a preference for C++ and Python, I am confident in my ability to pick up programming languages; after all, the essence of programming is the planning! Languages that I've dabbled in include Java, C, Visual Basic (.net), R, and Perl.
+While I do have a preference for C++ and Python, I am confident in my ability to pick up programming languages; after all, the essence of programming is the planning! Thanks to this understanding, I've dabbled in many languages: Java, JavaScript, C, Visual Basic (.net), R, and Perl.
 
 Relevant courses that I took are Data Structures and a myriad of math classes (Multivariate Calculus, Linear Algebra, Statistics). Upcoming relevant courses this spring are Software Engineering courses and Database/Data Systems courses.
-
-You can also view the projects at the following webpage: **grapemoli.github.io**
 
 # Projects Timeline
 1. Web-App Pokedex 
