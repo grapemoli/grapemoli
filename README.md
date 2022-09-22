@@ -16,6 +16,8 @@ Relevant courses that I took are Data Structures and a myriad of math classes (M
   - https://github.com/grapemoli/Tic-Tac-Toe
 5. N-Queens
 - https://github.com/grapemoli/NQueens
+6. Span Algorithm 
+- https://github.com/grapemoli/Span
 
 
 # Contact Information
