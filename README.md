@@ -1,5 +1,7 @@
 # Introduction
-👋 Hi, I’m @grapemoli, a Sophpmore working towards a BS in Computer Science. The name is inspired by grapes and guacamoli. Both are great.
+👋 Hi, I’m @grapemoli, a Junior working towards a BS in Computer Science. The name is inspired by grapes and guacamoli. Both are great.
+
+Relevant courses that I took are Data Structures and a myriad of math classes (Multivariate Calculus, Linear Algebra, Statistics). Upcoming relevant courses this spring are Software Engineering courses and Database/Data Systems courses.
 
 You can also view the projects at the following webpage: **grapemoli.github.io**
 
