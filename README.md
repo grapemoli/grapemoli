@@ -1,5 +1,5 @@
 # Introduction
-👋 Hi, I’m @grapemoli, a Junior working towards a BS in Computer Science. The name is inspired by grapes and guacamoli. Both are great.
+👋 Hi, I’m Grace Nguyen, a Junior working towards a BS in Computer Science. The name is inspired by grapes and guacamoli. Both are great.
 
 While I do have a preference for C++ and Python, I am confident in my ability to pick up programming languages; after all, the essence of programming is the algorithm! Behind every project is a UML diagram and a whiteboard with psuedocode.
 
@@ -19,5 +19,4 @@ Relevant courses that I took are Data Structures and a myriad of math classes (M
 
 
 # Contact Information
-Name: Grace Nguyen
 Email: wambamgara@gmail.com
