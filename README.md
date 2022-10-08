@@ -18,6 +18,8 @@ Relevant courses that I took are Data Structures and a myriad of math classes (M
 - https://github.com/grapemoli/NQueens
 6. Span Algorithm 
 - https://github.com/grapemoli/Span
+7. K-th Smallest Number
+- https://github.com/grapemoli/kSmallestNumber
 
 
 # Contact Information
