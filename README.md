@@ -20,7 +20,8 @@ Relevant courses that I took are Data Structures and a myriad of math classes (M
 - https://github.com/grapemoli/Span
 7. K-th Smallest Number
 - https://github.com/grapemoli/kSmallestNumber
-
+8. Horse Race in Swift
+- https://github.com/grapemoli/horseRaceSwift
 
 # Contact Information
 Email: wambamgara@gmail.com
