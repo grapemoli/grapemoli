@@ -25,6 +25,8 @@ Languages I've dabbled in: C++, Java, Python, JavaScript, Swift, Ruby, Visual Ba
 - https://github.com/grapemoli/kSmallestNumber
 8. Horse Race in Swift
 - https://github.com/grapemoli/horseRaceSwift
+9. Hashing Spell Checker
+- https://github.com/grapemoli/spellChecker
 
 # Contact Information
 Email: wambamgara@gmail.com
