@@ -29,6 +29,8 @@ Languages I've dabbled in: C++, Java, Python, JavaScript, Swift, Ruby, Visual Ba
 - https://github.com/grapemoli/spellChecker
 10. Missing Number {Scala}
 - https://github.com/grapemoli/missingNumber
+11. Horse Race in Visual Basic {VB.NET}
+- https://github.com/grapemoli/horseRaceVB
 
 # Contact Information
 Email: wambamgara@gmail.com
