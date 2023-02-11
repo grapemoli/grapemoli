@@ -14,7 +14,7 @@ Relevant courses that I took are Data Structures, Multivariate Calculus, Linear 
 <br>A command-line Tic-Tac-Toe game made in Python. Technically my first 'official' game.
 - **[N-Queens](https://github.com/grapemoli/NQueens)**: C++
 <br>Given a n-by-n sized chessboard, I use the stack to calculate a chess-board of queens where no queen is in immediate reach of one another. 
-- [**Horse Race in Swift](https://github.com/grapemoli/horseRaceSwift)**: Swift
+- **[Horse Race in Swift](https://github.com/grapemoli/horseRaceSwift)**: Swift
 <br>I simulate a horserace between multiple horses by using a random number generator. The track is represented literally, with each period representing a unit distance. and a number representing the horse. 
 - **[Horse Race in Visual Basic](https://github.com/grapemoli/horseRaceVB)**: VB.NET
 <br>The same alogrithm as the Horse Race in Swift, but this time I do it in Visual Basic (depricated language). 
