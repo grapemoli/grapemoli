@@ -1,5 +1,5 @@
 # Introduction
-👋 Hi a Junior working towards a BS in Computer Science. The name is inspired by grapes and guacamoli. Both are great.
+👋 Hi. I am a Junior working towards a BS in Computer Science. The name is inspired by grapes and guacamoli. Both are great.
 
 I have a preference for C++ and Java, but I've also dabbled in Python, JavaScript, and Swift. 
 
