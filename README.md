@@ -1,10 +1,9 @@
 # Introduction
 👋 Hi a Junior working towards a BS in Computer Science. The name is inspired by grapes and guacamoli. Both are great.
 
-While I do have a preference for C++ and Python, I am confident in my ability to pick up programming languages; after all, the essence of programming is the algorithm! Behind every project is a UML diagram and a whiteboard with psuedocode.
-
 Relevant courses that I took are Data Structures and a myriad of math classes (Multivariate Calculus, Linear Algebra, Statistics). Upcoming relevant courses this spring are Software Engineering courses and Database/Data Systems courses.
 
+Language Preferences: C++, Java
 Languages I've dabbled in: C++, Java, Python, JavaScript, Swift, Ruby, Visual Basic, Scala
 
 
