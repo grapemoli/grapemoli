@@ -1,10 +1,9 @@
 # Introduction
 👋 Hi a Junior working towards a BS in Computer Science. The name is inspired by grapes and guacamoli. Both are great.
 
-Relevant courses that I took are Data Structures and a myriad of math classes (Multivariate Calculus, Linear Algebra, Statistics). Upcoming relevant courses this spring are Software Engineering courses and Database/Data Systems courses.
-
-Language Preferences: C++, Java
-Languages I've dabbled in: C++, Java, Python, JavaScript, Swift, Ruby, Visual Basic, Scala
+Relevant courses that I took are Data Structures and a myriad of math classes (Multivariate Calculus, Linear Algebra, Statistics). Currently, I'm in a SWE and Oracle Database course.
+- Language Preferences: C++, Java
+- Languages I've dabbled in: C++, Java, Python, JavaScript, Swift, Ruby, Visual Basic, Scala
 
 
 # Projects Timeline
