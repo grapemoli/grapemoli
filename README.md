@@ -8,15 +8,7 @@ Relevant courses that I took are Data Structures, Multivariate Calculus, Linear 
 
 
 <!-- Some HTML for the Widgets Layout -->
-<style>
-  <!-- Remove table borders -->
-table {
-  background-color: linen;
-  borders: none;
-}
-</style>
-
-<table>
+<table style="borders:none">
   <tr>
     <td>
       <!-- Github Stats Widget
