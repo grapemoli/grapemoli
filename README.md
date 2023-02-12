@@ -5,20 +5,48 @@ I have a preference for C++ and Java, but I've also dabbled in Python, JavaScrip
 
 Relevant courses that I took are Data Structures, Multivariate Calculus, Linear Algebra, Statistics, and Client-Side Programming. Currently, I'm in a SWE and Oracle Database course.
 
-<!-- Github Stats Widget from https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
-<picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=grapemoli&show_icons=true&theme=flag-india"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=grapemoli&show_icons=true&theme=onedark"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=grapemoli&show_icons=true&theme=onedark" />
-</picture>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grapemoli)](https://github.com/anuraghazra/github-readme-stats)
+<!-- WIDGETS HTML -->
+<table>
+  <tr>
+    <td>
+      <!-- Github Stats Widget
+       !-- provided by https://github.com/anuraghazra/github-readme-stats#responsive-card-theme
+       !-- Made responsive to different browser themes.
+      -->
+      <picture>
+      <source
+        srcset="https://github-readme-stats.vercel.app/api?username=grapemoli&show_icons=true&theme=flag-india"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-readme-stats.vercel.app/api?username=grapemoli&show_icons=true&theme=onedark"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img src="https://github-readme-stats.vercel.app/api?username=grapemoli&show_icons=true&theme=onedark" />
+      </picture>
+    </td>
+
+    <td>
+      <!-- Github Language Widget
+       !-- provided by https://github.com/anuraghazra/github-readme-stats#responsive-card-theme
+       !-- Made responsive to different browser themes.
+        -->
+      <picture>
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=grapemoli&show_icons=true&theme=flag-india"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=grapemoli&theme=onedark"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grapemoli&show_icons=true&theme=onedark" />
+      </picture>
+    </td>
+  </tr>
+</table>
+
 
 
 # Projects of Interest
