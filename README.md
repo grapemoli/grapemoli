@@ -5,6 +5,8 @@ I have a preference for C++ and Java, but I've also dabbled in Python, JavaScrip
 
 Relevant courses that I took are Data Structures, Multivariate Calculus, Linear Algebra, Statistics, and Client-Side Programming. Currently, I'm in a SWE and Oracle Database course.
 
+Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=grapemoli)](https://github.com/anuraghazra/github-readme-stats)
+
 # Projects of Interest
 - **[Web-App Pokedex](https://github.com/grapemoli/PokeDex)**: Bottle/Python, JavaScript, HTML/CS
 <br>This web application web-scraped off of Bulbapedia, and took information provided by the PokeAPI to create a multiple tables in SQLite. Using Bottle, a Python framework, I created a comprehensive encyclopedia of all Pokemon regions, pokemons, and gym leaders.
