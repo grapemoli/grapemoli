@@ -8,7 +8,7 @@ Relevant courses that I took are Data Structures, Multivariate Calculus, Linear 
 
 
 <!-- Some HTML for the Widgets Layout -->
-<table style="borders:none">
+<table style="border-style:none">
   <tr>
     <td>
       <!-- Github Stats Widget
