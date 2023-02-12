@@ -6,7 +6,8 @@ I have a preference for C++ and Java, but I've also dabbled in Python, JavaScrip
 Relevant courses that I took are Data Structures, Multivariate Calculus, Linear Algebra, Statistics, and Client-Side Programming. Currently, I'm in a SWE and Oracle Database course.
 
 
-<!-- WIDGETS HTML -->
+
+
 <table>
   <tr>
     <td>
@@ -26,9 +27,8 @@ Relevant courses that I took are Data Structures, Multivariate Calculus, Linear 
       <img src="https://github-readme-stats.vercel.app/api?username=grapemoli&show_icons=true&theme=onedark" />
       </picture>
     </td>
-  </tr>
+    
 
-  <tr>
     <td>
       <!-- Github Language Widget
        !-- provided by https://github.com/anuraghazra/github-readme-stats#responsive-card-theme
