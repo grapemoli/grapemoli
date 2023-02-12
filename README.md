@@ -7,7 +7,7 @@ Relevant courses that I took are Data Structures, Multivariate Calculus, Linear 
 
 
 <!-- Some HTML for the Widgets Layout -->
-<table style="border-style:none; border=none;">
+<table style="border-style:none; border=none; padding=">
   <tr style="border-style:none; border:none;">
     <td>
       <!-- Github Stats Widget
@@ -33,14 +33,14 @@ Relevant courses that I took are Data Structures, Multivariate Calculus, Linear 
         -->
       <picture>
       <source
-        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=grapemoli&show_icons=true&theme=flag-india"
+        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=grapemoli&show_icons=true&layout=compact&theme=flag-india"
         media="(prefers-color-scheme: dark)"
       />
       <source
-        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=grapemoli&theme=onedark"
+        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=grapemoli&layout=compact&theme=onedark"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grapemoli&show_icons=true&theme=onedark" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grapemoli&show_icons=true&layout=compact&theme=onedark" />
       </picture>
     </td>
   </tr>
