@@ -6,24 +6,11 @@ I have a preference for C++ and Java, but I've also dabbled in Python, JavaScrip
 Relevant courses that I took are Data Structures, Multivariate Calculus, Linear Algebra, Statistics, and Client-Side Programming. Currently, I'm in a SWE and Oracle Database course.
 
 
-<!-- Syntactically a mess, but this is to create a table of widgets using Markdown -->
-|     Stats   | Languages   |
-| ----------- | ----------- |
-| (<!-- Github Language Widget
-       !-- provided by https://github.com/anuraghazra/github-readme-stats#responsive-card-theme
-       !-- Made responsive to different browser themes.
-        -->
-      <picture>
-      <source
-        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=grapemoli&show_icons=true&theme=flag-india"
-        media="(prefers-color-scheme: dark)"
-      />
-      <source
-        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=grapemoli&theme=onedark"
-        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-      />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grapemoli&show_icons=true&theme=onedark" />
-      </picture>)      | (<!-- Github Stats Widget
+<!-- Some HTML for the Widgets Layout -->
+<table style="border-style:none; border=none;">
+  <tr style="border-style:none; border:none;">
+    <td>
+      <!-- Github Stats Widget
        !-- provided by https://github.com/anuraghazra/github-readme-stats#responsive-card-theme
        !-- Made responsive to different browser themes.
       -->
@@ -37,7 +24,27 @@ Relevant courses that I took are Data Structures, Multivariate Calculus, Linear 
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       />
       <img src="https://github-readme-stats.vercel.app/api?username=grapemoli&show_icons=true&theme=onedark" />
-      </picture>)      |
+      </picture>
+    </td>
+    <td>
+      <!-- Github Language Widget
+       !-- provided by https://github.com/anuraghazra/github-readme-stats#responsive-card-theme
+       !-- Made responsive to different browser themes.
+        -->
+      <picture>
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=grapemoli&show_icons=true&theme=flag-india"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=grapemoli&theme=onedark"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grapemoli&show_icons=true&theme=onedark" />
+      </picture>
+    </td>
+  </tr>
+</table>
 
 
 
