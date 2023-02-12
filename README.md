@@ -7,7 +7,13 @@ Relevant courses that I took are Data Structures, Multivariate Calculus, Linear 
 
 
 <!-- Some HTML for the Widgets Layout -->
-<!-- Themes were chosen for accessibility -->
+<!-- Themes were chosen, to the best of my ability, by 508 compliance and accessibility design standards -->
+<style>
+td, th {
+   border: none!important;
+}
+</style>
+
 <table style="border-style:none; border=none; padding=">
   <tr style="border-style:none; border:none;">
     <td>
