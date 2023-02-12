@@ -26,7 +26,9 @@ Relevant courses that I took are Data Structures, Multivariate Calculus, Linear 
       <img src="https://github-readme-stats.vercel.app/api?username=grapemoli&show_icons=true&theme=onedark" />
       </picture>
     </td>
+  </tr>
 
+  <tr>
     <td>
       <!-- Github Language Widget
        !-- provided by https://github.com/anuraghazra/github-readme-stats#responsive-card-theme
@@ -46,6 +48,7 @@ Relevant courses that I took are Data Structures, Multivariate Calculus, Linear 
     </td>
   </tr>
 </table>
+
 
 
 
