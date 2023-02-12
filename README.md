@@ -37,10 +37,10 @@ Relevant courses that I took are Data Structures, Multivariate Calculus, Linear 
         media="(prefers-color-scheme: dark)"
       />
       <source
-        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=grapemoli&layout=compact&theme=panda "
+        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=grapemoli&layout=compact&theme=panda"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grapemoli&show_icons=true&layout=compact&theme=panda " />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grapemoli&show_icons=true&layout=compact&theme=panda" />
       </picture>
     </td>
   </tr>
