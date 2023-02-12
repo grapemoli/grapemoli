@@ -5,7 +5,7 @@ I have a preference for C++ and Java, but I've also dabbled in Python, JavaScrip
 
 Relevant courses that I took are Data Structures, Multivariate Calculus, Linear Algebra, Statistics, and Client-Side Programming. Currently, I'm in a SWE and Oracle Database course.
 
-![Grapemoli's GitHub stats](https://github-readme-stats.vercel.app/api?username=grapemoli&count_private=true&theme=onedark )
+<!-- Github Stats Widget from https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
 <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=grapemoli&show_icons=true&theme=gruvbox_light"
@@ -15,7 +15,7 @@ Relevant courses that I took are Data Structures, Multivariate Calculus, Linear 
   srcset="https://github-readme-stats.vercel.app/api?username=grapemoli&show_icons=true&theme=onedark"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="https://github-readme-stats.vercel.app/api?username=grapemoli&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=grapemoli&show_icons=true&theme=onedark" />
 </picture>
 
 # Projects of Interest
