@@ -8,14 +8,8 @@ Relevant courses that I took are Data Structures, Multivariate Calculus, Linear 
 
 <!-- Some HTML for the Widgets Layout -->
 <!-- Themes were chosen, to the best of my ability, by 508 compliance and accessibility design standards -->
-<style>
-td, th {
-   border: none!important;
-}
-</style>
-
-<table style="border-style:none; border=none; padding=">
-  <tr style="border-style:none; border:none;">
+<table style="width="100%" border="0" style="border:0; width:100%;">
+  <tr>
     <td>
       <!-- Github Stats Widget
        !-- provided by https://github.com/anuraghazra/github-readme-stats#responsive-card-theme
