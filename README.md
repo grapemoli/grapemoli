@@ -18,6 +18,9 @@ Relevant courses that I took are Data Structures, Multivariate Calculus, Linear 
 <img src="https://github-readme-stats.vercel.app/api?username=grapemoli&show_icons=true&theme=onedark" />
 </picture>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grapemoli)](https://github.com/anuraghazra/github-readme-stats)
+
+
 # Projects of Interest
 - **[Web-App Pokedex](https://github.com/grapemoli/PokeDex)**: Bottle/Python, JavaScript, HTML/CS
 <br>This web application web-scraped off of Bulbapedia, and took information provided by the PokeAPI to create a multiple tables in SQLite. Using Bottle, a Python framework, I created a comprehensive encyclopedia of all Pokemon regions, pokemons, and gym leaders.
