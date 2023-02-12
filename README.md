@@ -9,7 +9,7 @@ Relevant courses that I took are Data Structures, Multivariate Calculus, Linear 
 <!-- Syntactically a mess, but this is to create a table of widgets using Markdown -->
 |     Stats   | Languages   |
 | ----------- | ----------- |
-| <!-- Github Language Widget
+| (<!-- Github Language Widget
        !-- provided by https://github.com/anuraghazra/github-readme-stats#responsive-card-theme
        !-- Made responsive to different browser themes.
         -->
@@ -23,7 +23,7 @@ Relevant courses that I took are Data Structures, Multivariate Calculus, Linear 
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       />
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grapemoli&show_icons=true&theme=onedark" />
-      </picture>      | <!-- Github Stats Widget
+      </picture>)      | (<!-- Github Stats Widget
        !-- provided by https://github.com/anuraghazra/github-readme-stats#responsive-card-theme
        !-- Made responsive to different browser themes.
       -->
@@ -37,7 +37,7 @@ Relevant courses that I took are Data Structures, Multivariate Calculus, Linear 
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       />
       <img src="https://github-readme-stats.vercel.app/api?username=grapemoli&show_icons=true&theme=onedark" />
-      </picture>       |
+      </picture>)      |
 
 
 
