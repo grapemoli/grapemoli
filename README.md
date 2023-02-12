@@ -10,7 +10,7 @@ Relevant courses that I took are Data Structures, Multivariate Calculus, Linear 
 # Projects of Interest
 - **[Web-App Pokedex](https://github.com/grapemoli/PokeDex)**: Bottle/Python, JavaScript, HTML/CS
 <br>This web application web-scraped off of Bulbapedia, and took information provided by the PokeAPI to create a multiple tables in SQLite. Using Bottle, a Python framework, I created a comprehensive encyclopedia of all Pokemon regions, pokemons, and gym leaders.
-- **[MGOT](https://github.com/grapemoli/MGOT) (Plant-Care Simulation)**: Java
+- **[MGOT (Plant-Care Simulation)](https://github.com/grapemoli/MGOT)**: Java
 <br>MGOT was created by web-scrapping plant information off of Tropicopia, and creating a textfiles of the plants seperated by plant categorization. This is one of my biggest projects, and is a realistic, comprehensive  simulator. Users can buy, nuture, grow, and possibly kill plants! Other points of interest is that I created a system that calculated logarithmic plant growth, which took into account the season and overall plant condition. 
 - **[Tic-Tac-Toe](https://github.com/grapemoli/Tic-Tac-Toe)**: Python
 <br>A command-line Tic-Tac-Toe game made in Python. Technically my first 'official' game.
