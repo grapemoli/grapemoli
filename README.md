@@ -8,7 +8,7 @@ Relevant courses that I took are Data Structures, Multivariate Calculus, Linear 
 <!-- Github Stats Widget from https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
 <picture>
 <source 
-  srcset="https://github-readme-stats.vercel.app/api?username=grapemoli&show_icons=true&theme=gruvbox_light"
+  srcset="https://github-readme-stats.vercel.app/api?username=grapemoli&show_icons=true&theme=flag-india"
   media="(prefers-color-scheme: dark)"
 />
 <source
