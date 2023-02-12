@@ -7,6 +7,7 @@ Relevant courses that I took are Data Structures, Multivariate Calculus, Linear 
 
 
 <!-- Some HTML for the Widgets Layout -->
+<!-- Themes were chosen for accessibility -->
 <table style="border-style:none; border=none; padding=">
   <tr style="border-style:none; border:none;">
     <td>
@@ -37,10 +38,10 @@ Relevant courses that I took are Data Structures, Multivariate Calculus, Linear 
         media="(prefers-color-scheme: dark)"
       />
       <source
-        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=grapemoli&layout=compact&theme=outrun"
+        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=grapemoli&layout=compact&theme=dracula"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grapemoli&show_icons=true&layout=compact&theme=outrun" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grapemoli&show_icons=true&layout=compact&theme=dracula" />
       </picture>
     </td>
   </tr>
