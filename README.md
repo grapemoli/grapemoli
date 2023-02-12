@@ -7,7 +7,7 @@ Relevant courses that I took are Data Structures, Multivariate Calculus, Linear 
 
 
 <!-- Syntactically a mess, but this is to create a table of widgets using Markdown -->
-|             |             |
+|     Stats   | Languages   |
 | ----------- | ----------- |
 | <!-- Github Language Widget
        !-- provided by https://github.com/anuraghazra/github-readme-stats#responsive-card-theme
