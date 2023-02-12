@@ -8,6 +8,7 @@ Relevant courses that I took are Data Structures, Multivariate Calculus, Linear 
 
 
 <!-- Some HTML for the Widgets Layout -->
+<link rel="stylesheet" href="path/to/css/modest.css">
 <table style="border-style:none">
   <tr>
     <td>
