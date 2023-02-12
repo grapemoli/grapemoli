@@ -9,8 +9,8 @@ Relevant courses that I took are Data Structures, Multivariate Calculus, Linear 
 <!-- Some HTML for the Widgets Layout -->
 <!-- Themes were chosen, to the best of my ability, by 508 compliance and accessibility design standards -->
 <table width="100%"  style="border:0px solid white; width:100%;">
-  <tr>
-    <td>
+  <tr style="border: 0px;">
+    <td width="33%" style="border:0px; width:33.33%">
       <!-- Github Stats Widget
        !-- provided by https://github.com/anuraghazra/github-readme-stats#responsive-card-theme
        !-- Made responsive to different browser themes.
@@ -27,7 +27,7 @@ Relevant courses that I took are Data Structures, Multivariate Calculus, Linear 
       <img src="https://github-readme-stats.vercel.app/api?username=grapemoli&show_icons=true&theme=onedark" />
       </picture>
     </td>
-    <td>
+    <td width="33%" style="border:0px; width:33.33%">
       <!-- Github Language Widget
        !-- provided by https://github.com/anuraghazra/github-readme-stats#responsive-card-theme
        !-- Made responsive to different browser themes.
