@@ -3,7 +3,7 @@
 
 I have a preference for C++ and Java, but I've also dabbled in Python, JavaScript, and Swift. 
 
-Relevant courses that I took are Data Structures, Multivariate Calculus, Linear Algebra, Statistics, and Client-Side Programming. Currently, I'm in a SWE and Oracle Database course.
+Relevant courses that I took are Data Structures, Multivariate Calculus, Linear Algebra, Statistics, and Client-Side Programming. Currently, I'm in a Software Engineering and Oracle Database Programming course.
 
 
 <!-- Some HTML for the Widgets Layout -->
