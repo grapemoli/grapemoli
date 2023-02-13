@@ -6,6 +6,8 @@ I have a preference for C++ and Java, but I've also dabbled in Python, JavaScrip
 
 Relevant courses that I took are Data Structures, Multivariate Calculus, Linear Algebra, Statistics, and Client-Side Programming. Currently, I'm in a Software Engineering and Oracle Database Programming course.
 
+*I have privated repositories on my GitHub Enterprise account that demonstrates SOLID design principles. Please contact me at wambamgara@gmail.com if you are interested.*
+
 
 <!-- Some HTML for the Widgets Layout -->
 <!-- Themes were chosen, to the best of my ability, by 508 Compliance and accessibility design standards -->
