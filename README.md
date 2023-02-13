@@ -15,11 +15,11 @@ Relevant courses that I took are Data Structures, Multivariate Calculus, Linear 
        !-- and aligned with Github Language Widget.
       -->
 <a href="https://github.com/anuraghazra/convoychat">
-  <source align="center" srcset="https://github-readme-stats.vercel.app/api?username=grapemoli&show_icons=true&theme=flag-india"
+  <source align="center" srcset="https://github-readme-stats.vercel.app/api?username=grapemoli&show_icons=true&hide_border=true&theme=flag-india"
         media="(prefers-color-scheme: dark)" />
-  <source align="center" srcset="https://github-readme-stats.vercel.app/api?username=grapemoli&show_icons=true&theme=onedark"
+  <source align="center" srcset="https://github-readme-stats.vercel.app/api?username=grapemoli&show_icons=true&hide_border=true&theme=onedark"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=grapemoli&show_icons=true&theme=onedark"
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=grapemoli&show_icons=true&hide_border=true&theme=onedark"
         media="" />
 </a>
      
@@ -28,11 +28,11 @@ Relevant courses that I took are Data Structures, Multivariate Calculus, Linear 
        !-- Made responsive to different browser themes.
         -->
 <a href="https://github.com/anuraghazra/convoychat">
-  <source align="center" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=grapemoli&show_icons=true&layout=compact&theme=flag-india"
+  <source align="center" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=grapemoli&show_icons=true&layout=compact&hide_border=true&theme=flag-india"
         media="(prefers-color-scheme: dark)" />
-  <source align="center" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=grapemoli&show_icons=true&layout=compact&theme=dracula"
+  <source align="center" srcset="https://github-readme-stats.vercel.app/api/top-langs/username=grapemoli&show_icons=true&hide_border=true&layout=compact&theme=dracula"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grapemoli&show_icons=true&layout=compact&theme=dracula"
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grapemoli&show_icons=true&layout=compact&hide_border=true&theme=dracula"
         media="" />
 </a>
 
