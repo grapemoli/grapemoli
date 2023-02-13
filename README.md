@@ -7,11 +7,12 @@ Relevant courses that I took are Data Structures, Multivariate Calculus, Linear 
 
 
 <!-- Some HTML for the Widgets Layout -->
-<!-- Themes were chosen, to the best of my ability, by 508 compliance and accessibility design standards -->
+<!-- Themes were chosen, to the best of my ability, by 508 Compliance and accessibility design standards -->
 
 <!-- Github Stats Widget
        !-- provided by https://github.com/anuraghazra/github-readme-stats#responsive-card-theme
-       !-- Made responsive to different browser themes.
+       !-- Made responsive to different background themes for better contrast,
+       !-- and aligned with Github Language Widget.
       -->
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" srcset="https://github-readme-stats.vercel.app/api?username=grapemoli&show_icons=true&theme=flag-india"
@@ -22,6 +23,18 @@ Relevant courses that I took are Data Structures, Multivariate Calculus, Linear 
         media="" />
 </a>
      
+<!-- Github Language Widget
+       !-- provided by https://github.com/anuraghazra/github-readme-stats#responsive-card-theme
+       !-- Made responsive to different browser themes.
+        -->
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=grapemoli&show_icons=true&layout=compact&theme=flag-india"
+        media="(prefers-color-scheme: dark)" />
+  <img align="center" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=grapemoli&show_icons=true&layout=compact&theme=dracula"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grapemoli&show_icons=true&layout=compact&theme=dracula"
+        media="" />
+</a>
 
 <table width="100%"  style="border:0px, none; width:100%;">
   <tr style="border: 0px;">
