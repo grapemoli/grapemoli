@@ -50,10 +50,8 @@ Relevant courses that I took are Data Structures, Multivariate Calculus, Linear 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=grapemoli&repo=MGOT&show_owner=true&theme=swift)](https://github.com/grapemoli/MGOT)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=grapemoli&repo=spellChecker&show_owner=true&theme=swift)](https://github.com/grapemoli/spellChecker)
 
+<br><br>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=grapemoli&repo=horseRaceSwift&show_owner=true&theme=vue )](https://github.com/grapemoli/horseRaceSwift)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=grapemoli&repo=horseRaceVB&show_owner=true&theme=vue )](https://github.com/grapemoli/horseRaceVB)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=grapemoli&repo=missingNumber&show_owner=true&theme=vue )](https://github.com/grapemoli/missingNumber)
 
-- **[Horse Race in Swift](https://github.com/grapemoli/horseRaceSwift)**: Swift
-<br>I simulate a horserace between multiple horses by using a random number generator. The track is represented literally, with each period representing a unit distance. and a number representing the horse. 
-- **[Horse Race in Visual Basic](https://github.com/grapemoli/horseRaceVB)**: VB.NET
-<br>The same alogrithm as the Horse Race in Swift, but this time I do it in Visual Basic (depricated language). 
-- **[Missing Number](https://github.com/grapemoli/missingNumber)**: Scala
-<br>This was my first attempt at the functional programming paradigm, and it was difficult!
