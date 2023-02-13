@@ -8,6 +8,14 @@ Relevant courses that I took are Data Structures, Multivariate Calculus, Linear 
 
 <!-- Some HTML for the Widgets Layout -->
 <!-- Themes were chosen, to the best of my ability, by 508 compliance and accessibility design standards -->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=grapemoli&show_icons=true&theme=flag-india"
+        media=" />
+</a>
+
 <table width="100%"  style="border:0px, none; width:100%;">
   <tr style="border: 0px;">
     <td width="50%" style="border:0px; width:50%;">
