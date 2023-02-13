@@ -1,15 +1,19 @@
 ![image](https://user-images.githubusercontent.com/105399768/218372462-0ab613fb-f806-4f55-8723-c7205fe3f7b2.png)
 
+<details>
+  <summary>About Me</summary>
+   ## Greetings! 👋
+   Hi! I am a Junior working towards a BS in Computer Science. The name is inspired by grapes and guacamoli. Both are great. 
 
-👋 Hi! I am a Junior working towards a BS in Computer Science. The name is inspired by grapes and guacamoli. Both are great. 
-
-I have a preference for C++ and Java and would rather not work with CLISP or Perl again. :relaxed:
-
-**Relevant Courses:** Data Structures, Multivariate Calculus, Linear Algebra, Statistics, Client-Side Programming
-<br>
-**Current Courses:** Introduction to Software Design, Oracle Database Programming
-
-*I have privated repositories on my GitHub Enterprise account that demonstrate good software design principles, such as the SOLID principle. Please contact me at wambamgara@gmail.com if you are interested.*
+   I have a preference for C++ and Java and would rather not work with CLISP or Perl again. :relaxed:
+ 
+   ## Schoolwork
+   **Relevant Courses:** Data Structures, Multivariate Calculus, Linear Algebra, Statistics, Client-Side Programming
+   <br>
+   **Current Courses:** Introduction to Software Design, Oracle Database Programming
+ 
+   *I have privated repositories on my GitHub Enterprise account that demonstrate good software design principles, such as the SOLID principle. Please contact me at wambamgara@gmail.com if you are interested.*
+ </details>
 
 <br>
 
