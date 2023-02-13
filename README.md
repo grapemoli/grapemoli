@@ -4,8 +4,8 @@
 
 I have a preference for C++ and Java, but I've also dabbled in Python, JavaScript, and Swift. I'd rather not work with CLISP or Perl again. 
 
-**Relevant Courses:** Data Structures (A+), Multivariate Calculus (A+), Linear Algebra, Statistics (A+), Client-Side Programming (A+)
-**Currently Courses:** I'm in a Software Engineering and Oracle Database Programming course.
+**Relevant Courses:** Data Structures, Multivariate Calculus, Linear Algebra, Statistics, Client-Side Programming
+**Currently Courses:** Introduction to Software Design, Oracle Database Programming
 
 *I have privated repositories on my GitHub Enterprise account that demonstrate a SOLID design principles and advanced C++ knowledge. Please contact me at wambamgara@gmail.com if you are interested.*
 
