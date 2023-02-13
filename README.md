@@ -2,7 +2,7 @@
 
 👋 Hi! I am a Junior working towards a BS in Computer Science. The name is inspired by grapes and guacamoli. Both are great. 
 
-I have a preference for C++ and Java and would rather not work with CLISP or Perl again. 😆
+I have a preference for C++ and Java and would rather not work with CLISP or Perl again. :joy:
 
 **Relevant Courses:** Data Structures, Multivariate Calculus, Linear Algebra, Statistics, Client-Side Programming
 <br>
