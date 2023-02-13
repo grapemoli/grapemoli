@@ -8,7 +8,6 @@ Relevant courses that I took are Data Structures, Multivariate Calculus, Linear 
 
 *I have privated repositories on my GitHub Enterprise account that demonstrate a SOLID design principles and advanced C++ knowledge. Please contact me at wambamgara@gmail.com if you are interested.*
 
-<br>
 <!-- Some HTML for the Widgets Layout -->
 <!-- Themes were chosen, to the best of my ability, by 508 Compliance and accessibility design standards -->
 
@@ -52,7 +51,7 @@ Relevant courses that I took are Data Structures, Multivariate Calculus, Linear 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=grapemoli&repo=MGOT&show_owner=true&theme=swift)](https://github.com/grapemoli/MGOT)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=grapemoli&repo=spellChecker&show_owner=true&theme=swift)](https://github.com/grapemoli/spellChecker)
 
-<br>
+<br><br>
 ## Dabbling in Languages
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=grapemoli&repo=horseRaceSwift&show_owner=true&theme=vue )](https://github.com/grapemoli/horseRaceSwift)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=grapemoli&repo=horseRaceVB&show_owner=true&theme=vue )](https://github.com/grapemoli/horseRaceVB)
