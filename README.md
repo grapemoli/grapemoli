@@ -44,7 +44,7 @@ Relevant courses that I took are Data Structures, Multivariate Calculus, Linear 
   </picture>
 </a>
 
-<br>
+<br><br>
 
 ## Projects of Interest
 ### Major Projects
