@@ -56,4 +56,4 @@ Relevant courses that I took are Data Structures, Multivariate Calculus, Linear 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=grapemoli&repo=horseRaceSwift&show_owner=true&theme=vue )](https://github.com/grapemoli/horseRaceSwift)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=grapemoli&repo=horseRaceVB&show_owner=true&theme=vue )](https://github.com/grapemoli/horseRaceVB)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=grapemoli&repo=missingNumber&show_owner=true&theme=vue )](https://github.com/grapemoli/missingNumber)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=grapemoli&repo=javaProblems&show_owner=true&theme=vue )](https://github.com/grapemoli/javaProblems)
