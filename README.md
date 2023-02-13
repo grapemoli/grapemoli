@@ -7,7 +7,7 @@ I have a preference for C++ and Java and would rather not work with CLISP or Per
 
 <br>
 
-<!-- Some HTML for the Widgets Layout -->
+<!-- HTML for the Widgets Layout -->
 <!-- Themes were chosen, to the best of my ability, by 508 Compliance and accessibility design standards -->
 
 <!-- Github Stats Widget
@@ -43,7 +43,6 @@ I have a preference for C++ and Java and would rather not work with CLISP or Per
 
 <br>
 
-
 <!-- Details Collapsable: Schoolwork & Contact Information -->
 <details>
   <summary><h4>More Information</h4></summary>
@@ -60,6 +59,8 @@ I have a preference for C++ and Java and would rather not work with CLISP or Per
     For more information, please contact me at <a href="https://www.linkedin.com/in/grapemoli/">LinkedIn</a>.
   </i>
  </details>
+ 
+ <br>
 
 
 ## Projects of Interest
