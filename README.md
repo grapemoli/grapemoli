@@ -51,12 +51,6 @@ Relevant courses that I took are Data Structures, Multivariate Calculus, Linear 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=grapemoli&repo=spellChecker&show_owner=true&theme=swift)](https://github.com/grapemoli/spellChecker)
 
 
-- **[MGOT (Plant-Care Simulation)](https://github.com/grapemoli/MGOT)**: Java
-<br>MGOT was created by web-scrapping plant information off of Tropicopia, and creating a textfiles of the plants seperated by plant categorization. This is one of my biggest projects, and is a realistic, comprehensive  simulator. Users can buy, nuture, grow, and possibly kill plants! Other points of interest is that I created a system that calculated logarithmic plant growth, which took into account the season and overall plant condition. 
-- **[Tic-Tac-Toe](https://github.com/grapemoli/Tic-Tac-Toe)**: Python
-<br>A command-line Tic-Tac-Toe game made in Python. Technically my first 'official' game.
-- **[N-Queens](https://github.com/grapemoli/NQueens)**: C++
-<br>Given a n-by-n sized chessboard, I use the stack to calculate a chess-board of queens where no queen is in immediate reach of one another. 
 - **[Horse Race in Swift](https://github.com/grapemoli/horseRaceSwift)**: Swift
 <br>I simulate a horserace between multiple horses by using a random number generator. The track is represented literally, with each period representing a unit distance. and a number representing the horse. 
 - **[Horse Race in Visual Basic](https://github.com/grapemoli/horseRaceVB)**: VB.NET
