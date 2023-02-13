@@ -46,14 +46,14 @@ Relevant courses that I took are Data Structures, Multivariate Calculus, Linear 
 
 <br>
 
-# Projects of Interest
-## Major Projects
+## Projects of Interest
+### Major Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=grapemoli&repo=PokeDex&show_owner=true&theme=swift)](https://github.com/grapemoli/PokeDex)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=grapemoli&repo=MGOT&show_owner=true&theme=swift)](https://github.com/grapemoli/MGOT)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=grapemoli&repo=spellChecker&show_owner=true&theme=swift)](https://github.com/grapemoli/spellChecker)
 
 <br><br>
-## Dabbling in Languages
+### Dabbling in Languages
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=grapemoli&repo=horseRaceSwift&show_owner=true&theme=vue )](https://github.com/grapemoli/horseRaceSwift)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=grapemoli&repo=horseRaceVB&show_owner=true&theme=vue )](https://github.com/grapemoli/horseRaceVB)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=grapemoli&repo=missingNumber&show_owner=true&theme=vue )](https://github.com/grapemoli/missingNumber)
