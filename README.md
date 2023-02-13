@@ -1,6 +1,6 @@
 ![image](https://user-images.githubusercontent.com/105399768/218372462-0ab613fb-f806-4f55-8723-c7205fe3f7b2.png)
 
-## Greetings! 👋
+<h1> Greetings! 👋 </h1>
 Hi! I am a Junior working towards a BS in Computer Science. The name is inspired by grapes and guacamoli. Both are great. 
 
 I have a preference for C++ and Java and would rather not work with CLISP or Perl again. :relaxed:
