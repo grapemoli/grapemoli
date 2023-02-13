@@ -6,13 +6,13 @@ Hi! I am a Junior working towards a BS in Computer Science. The name is inspired
 I have a preference for C++ and Java and would rather not work with CLISP or Perl again. :relaxed:
 
 <details>
-  <summary><h2>More Information</h2></summary>
+  <summary><h4>More Information</h4></summary>
   <h3> Schoolwork </h3>
   <b> Relevant Courses: </b> Data Structures, Multivariate Calculus, Linear Algebra, Statistics, Client-Side Programming
   <br>
   <b>Current Courses:</b> Introduction to Software Design, Oracle Database Programming
   
-  <h3> Contact Me
+  <h3> Contact Me </h3>
   *I have privated repositories on my GitHub Enterprise account that demonstrate good software design principles, such as the SOLID principle.
    You can contact me at [LinkedIn](https://www.linkedin.com/in/grapemoli/).*
  </details>
