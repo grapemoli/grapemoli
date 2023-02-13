@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/105399768/218369261-91d62b9c-8e7f-4f28-818d-ff1cc75c8388.png)
+![image](https://user-images.githubusercontent.com/105399768/218370051-94383749-899c-45af-88f5-d6933341cdc1.png)
 
 👋 Hi! I am a Junior working towards a BS in Computer Science. The name is inspired by grapes and guacamoli. Both are great. 
 
