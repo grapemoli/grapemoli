@@ -14,12 +14,19 @@ Relevant courses that I took are Data Structures, Multivariate Calculus, Linear 
        !-- Made responsive to different browser themes.
       -->
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" srcset="https://github-readme-stats.vercel.app/api?username=grapemoli&show_icons=true&theme=flag-india"
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=grapemoli&show_icons=true&theme=flag-india"
         media="(prefers-color-scheme: dark)" />
-  <img align="center" srcset="https://github-readme-stats.vercel.app/api?username=grapemoli&show_icons=true&theme=onedark"
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=grapemoli&show_icons=true&theme=onedark"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
 </a>
 
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grapemoli&layout=compact&theme=dracula" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=grapemoli&show_icons=true&theme=flag-india" />
+</a>
      
 
 <table width="100%"  style="border:0px, none; width:100%;">
