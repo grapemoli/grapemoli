@@ -16,7 +16,7 @@ Relevant courses that I took are Data Structures, Multivariate Calculus, Linear 
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=grapemoli&show_icons=true&theme=flag-india"
         media="(prefers-color-scheme: dark)" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=grapemoli&show_icons=true&theme=onedark"
+  <img align="center" srcset="https://github-readme-stats.vercel.app/api?username=grapemoli&show_icons=true&theme=onedark"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
 </a>
      
