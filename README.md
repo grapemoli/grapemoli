@@ -2,7 +2,7 @@
 
 👋 Hi! I am a Junior working towards a BS in Computer Science. The name is inspired by grapes and guacamoli. Both are great. :relaxed:
 
-I have a preference for C++ and Java, but I've also dabbled in Python, JavaScript, and Swift. 
+I have a preference for C++ and Java, but I've also dabbled in Python, JavaScript, and Swift. I'd rather not work with CLISP or Perl again. 
 
 Relevant courses that I took are Data Structures, Multivariate Calculus, Linear Algebra, Statistics, and Client-Side Programming. Currently, I'm in a Software Engineering and Oracle Database Programming course.
 
