@@ -36,46 +36,6 @@ Relevant courses that I took are Data Structures, Multivariate Calculus, Linear 
         media="" />
 </a>
 
-<table width="100%"  style="border:0px, none; width:100%;">
-  <tr style="border: 0px;">
-    <td width="50%" style="border:0px; width:50%;">
-      <!-- Github Stats Widget
-       !-- provided by https://github.com/anuraghazra/github-readme-stats#responsive-card-theme
-       !-- Made responsive to different browser themes.
-      -->
-      <picture>
-      <source
-        srcset="https://github-readme-stats.vercel.app/api?username=grapemoli&show_icons=true&theme=flag-india"
-        media="(prefers-color-scheme: dark)"
-      />
-      <source
-        srcset="https://github-readme-stats.vercel.app/api?username=grapemoli&show_icons=true&theme=onedark"
-        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-      />
-      <img src="https://github-readme-stats.vercel.app/api?username=grapemoli&show_icons=true&theme=onedark" />
-      </picture>
-    </td>
-    <td width="50%" style="border:0px; width:50%;">
-      <!-- Github Language Widget
-       !-- provided by https://github.com/anuraghazra/github-readme-stats#responsive-card-theme
-       !-- Made responsive to different browser themes.
-        -->
-      <picture>
-      <source
-        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=grapemoli&show_icons=true&layout=compact&theme=flag-india"
-        media="(prefers-color-scheme: dark)"
-      />
-      <source
-        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=grapemoli&layout=compact&theme=dracula"
-        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-      />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grapemoli&show_icons=true&layout=compact&theme=dracula" />
-      </picture>
-    </td>
-  </tr>
-</table>
-
-
 
 
 # Projects of Interest
