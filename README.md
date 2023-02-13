@@ -8,7 +8,7 @@ I have a preference for C++ and Java and would rather not work with CLISP or Per
 <br>
 **Current Courses:** Introduction to Software Design, Oracle Database Programming
 
-*I have privated repositories on my GitHub Enterprise account that demonstrate a SOLID design principles and advanced C++ knowledge. Please contact me at wambamgara@gmail.com if you are interested.*
+*I have privated repositories on my GitHub Enterprise account that demonstrate good software design principles, such as the SOLID principle. Please contact me at wambamgara@gmail.com if you are interested.*
 
 <br>
 
