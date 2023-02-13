@@ -55,7 +55,5 @@ Relevant courses that I took are Data Structures, Multivariate Calculus, Linear 
 <br>I simulate a horserace between multiple horses by using a random number generator. The track is represented literally, with each period representing a unit distance. and a number representing the horse. 
 - **[Horse Race in Visual Basic](https://github.com/grapemoli/horseRaceVB)**: VB.NET
 <br>The same alogrithm as the Horse Race in Swift, but this time I do it in Visual Basic (depricated language). 
-- **[Hashing Spell Checker](https://github.com/grapemoli/spellChecker)**: C++
-<br>Using the chaining hash table technique, I created a spell checker that takes a user input and recommends the closest word match. 
 - **[Missing Number](https://github.com/grapemoli/missingNumber)**: Scala
 <br>This was my first attempt at the functional programming paradigm, and it was difficult!
