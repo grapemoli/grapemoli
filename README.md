@@ -13,8 +13,8 @@ I have a preference for C++ and Java and would rather not work with CLISP or Per
   <b>Current Courses:</b> Introduction to Software Design, Oracle Database Programming
   
   <h3> Contact Me </h3>
-  *I have privated repositories on my GitHub Enterprise account that demonstrate good software design principles, such as the SOLID principle.
-   You can contact me at [LinkedIn](https://www.linkedin.com/in/grapemoli/).*
+  <i>I have privated repositories on my GitHub Enterprise account that demonstrate good software design principles, such as the SOLID principle.
+    You can contact me at <a href="https://www.linkedin.com/in/grapemoli/">LinkedIn</a>.</i>
  </details>
 
 <br>
