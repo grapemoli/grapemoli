@@ -32,11 +32,11 @@ I have a preference for C++ and Java, and would rather not work with CLISP or Pe
   -->
 <a href="https://github.com/anuraghazra/convoychat">
   <picture>
-  <source align="center" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=grapemoli&show_icons=true&layout=compact&hide_border=true&theme=flag-india"
+  <source align="center" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=grapemoli&show_icons=true&layout=compact&hide_border=true&count_private=true&theme=flag-india"
         media="(prefers-color-scheme: dark)" />
   <source align="center" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=grapemoli&show_icons=true&hide_border=true&layout=compact&theme=dracula"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grapemoli&show_icons=true&layout=compact&hide_border=true&theme=dracula"
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grapemoli&show_icons=true&layout=compact&hide_border=true&count_private=true&theme=dracula"
         media="" />
   </picture>
 </a>
