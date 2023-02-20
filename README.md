@@ -68,7 +68,7 @@ I have a preference for C++ and Java, and would rather not work with CLISP or Pe
 <!-- Github Widget
        !-- Provided by https://github.com/anuraghazra/github-readme-stats#responsive-card-theme
         -->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=grapemoli&repo=Webmaster_Hackathon-1&show_owner=true&theme=swift)](https://github.com/grapemoli/https://github-readme-stats.vercel.app/api/pin/?username=grapemoli&repo=PokeDex&show_owner=true&theme=swift)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=grapemoli&repo=Webmaster_Hackathon-1&show_owner=true&theme=swift)](https://github.com/grapemoli/Webmaster_Hackathon-1)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=grapemoli&repo=PokeDex&show_owner=true&theme=swift)](https://github.com/grapemoli/PokeDex)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=grapemoli&repo=MGOT&show_owner=true&theme=swift)](https://github.com/grapemoli/MGOT)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=grapemoli&repo=spellChecker&show_owner=true&theme=swift)](https://github.com/grapemoli/spellChecker)
