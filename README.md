@@ -54,7 +54,7 @@ Despite my stats stating that I mostly code in Java/HTML, I have a preference fo
   <b>Current Courses:</b> Introduction to Software Design, Oracle Database Programming
   
   <h3> Contact Me </h3>
-  <i>I have privated repositories on that demonstrate good software design principles and patterns, such as the SOLID principle and the Facade pattern.
+  <i>I have privated repositories that demonstrate good software design principles and patterns, such as the SOLID principle and the Facade pattern.
     <br>
     For more information, please contact me at <a href="https://www.linkedin.com/in/grapemoli/">LinkedIn</a>.
   </i>
