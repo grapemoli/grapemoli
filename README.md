@@ -3,7 +3,7 @@
 ## Greetings! 👋
 Hi! I am a Junior working towards a BS in Computer Science. The name is inspired by grapes and guacamoli. Both are great. 
 
-Despite my stats stating that I mostly code in Java/HTML, I have a preference for C++ and Java (and would rather not work with CLISP or Perl again). The  JavaScript/HTML/CSS inflation is due to having most major projects as WebDev projects. Make sure to check them out! :relaxed:
+Despite my stats stating that I mostly code in Java/HTML, I have a preference for C++ and Java (and would rather not work with CLISP or Perl again). :relaxed:
 
 <br>
 
