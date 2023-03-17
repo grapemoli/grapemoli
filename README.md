@@ -77,5 +77,5 @@ Despite my stats stating that I mostly code in Java/HTML, I have a preference fo
 <!-- Github Widget
  !-- Provided by https://github.com/anuraghazra/github-readme-stats#responsive-card-theme
   -->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=grapemoli&repo=learningLanguages&show_owner=true&theme=vue )](https://github.com/grapemoli/learningLanguages)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=grapemoli&repo=javaProblems&show_owner=true&theme=vue )](https://github.com/grapemoli/javaProblems)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=grapemoli&repo=Learning_Languages&show_owner=true&theme=vue )](https://github.com/grapemoli/Learning_Languages)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=grapemoli&repo=Java_Problems&show_owner=true&theme=vue )](https://github.com/grapemoli/Java_Problems)
