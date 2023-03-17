@@ -71,7 +71,6 @@ Despite my stats stating that I mostly code in Java/HTML, I have a preference fo
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=grapemoli&repo=Webmaster_Hackathon&show_owner=true&theme=swift)](https://github.com/grapemoli/Webmaster_Hackathon)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=grapemoli&repo=PokeDex&show_owner=true&theme=swift)](https://github.com/grapemoli/PokeDex)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=grapemoli&repo=MGOT&show_owner=true&theme=swift)](https://github.com/grapemoli/MGOT)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=grapemoli&repo=spellChecker&show_owner=true&theme=swift)](https://github.com/grapemoli/spellChecker)
 
 <br><br>
 ### Dabbling in Languages
