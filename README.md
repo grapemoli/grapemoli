@@ -1,9 +1,7 @@
 ![image](https://user-images.githubusercontent.com/105399768/218372462-0ab613fb-f806-4f55-8723-c7205fe3f7b2.png)
 
 ## Greetings! 👋
-Hi! I am a Senior working towards a BS in Computer Science. The name is inspired by grapes and guacamoli. Both are great. 
-
-Despite my stats stating that I mostly code in Java/HTML, I am most comfortable in C++ and PL/SQL (and would rather not work with CLISP or Perl again). :relaxed:
+Hi! I am a Senior working towards a BS in Computer Science. The name is inspired by grapes and guacamoli. Both are great.  :relaxed:
 
 <br>
 
