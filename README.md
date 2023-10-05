@@ -47,11 +47,8 @@ Hi! I am a Senior working towards a BS in Computer Science. The name is inspired
 <details>
   <summary><h4>More Information</h4></summary>
   <h3> Schoolwork </h3>
-  <b> Relevant Courses: </b> Data Structures, Multivariate Calculus, Linear Algebra, Statistics, Client-Side Programming
-  
+  <b> Relevant Courses: </b> Data Structures, Principles of Software Design, Principles of SWE, Oracle Programming
   <br>
-  
-  <b>Current Courses:</b> Introduction to Software Design, Oracle Database Programming
   
   <h3> Contact Me </h3> 
   <i>I have privated repositories that demonstrate good software design principles and patterns, such as the SOLID principle and several patterns outlined in "Design Patterns: Elements of Reusable Object-Oriented Software."
