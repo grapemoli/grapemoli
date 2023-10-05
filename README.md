@@ -1,7 +1,7 @@
 ![image](https://user-images.githubusercontent.com/105399768/218372462-0ab613fb-f806-4f55-8723-c7205fe3f7b2.png)
 
 ## Greetings! 👋
-Hi! I am a Junior working towards a BS in Computer Science. The name is inspired by grapes and guacamoli. Both are great. 
+Hi! I am a Senior working towards a BS in Computer Science. The name is inspired by grapes and guacamoli. Both are great. 
 
 Despite my stats stating that I mostly code in Java/HTML, I am most comfortable in C++ and PL/SQL (and would rather not work with CLISP or Perl again). :relaxed:
 
@@ -15,6 +15,7 @@ Despite my stats stating that I mostly code in Java/HTML, I am most comfortable 
  !-- Made responsive to different background themes for better contrast,
  !-- and aligned with Github Language Widget.
   -->
+  <!--
 <a href="https://github.com/anuraghazra/convoychat">
   <picture>
   <source align="center" srcset="https://github-readme-stats.vercel.app/api?username=grapemoli&show_icons=true&hide_border=true&theme=flag-india"
@@ -25,6 +26,7 @@ Despite my stats stating that I mostly code in Java/HTML, I am most comfortable 
         media="" />
   </picture>
 </a>
+-->
      
 <!-- Github Language Widget
  !-- Provided by https://github.com/anuraghazra/github-readme-stats#responsive-card-theme
