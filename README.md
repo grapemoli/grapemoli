@@ -3,6 +3,8 @@
 ## Greetings! 👋
 Hi! I am a Senior working towards a BS in Computer Science. The name is inspired by grapes and guacamoli. Both are great.  :relaxed:
 
+Website? W.I.P.
+
 <br>
 
 <!-- HTML for the Widgets Layout -->
@@ -70,9 +72,13 @@ Hi! I am a Senior working towards a BS in Computer Science. The name is inspired
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=grapemoli&repo=MGOT&show_owner=true&theme=swift)](https://github.com/grapemoli/MGOT)
 
 <br><br>
+<!--
 ### Dabbling in Languages
+-->
 <!-- Github Widget
  !-- Provided by https://github.com/anuraghazra/github-readme-stats#responsive-card-theme
   -->
+  <!--
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=grapemoli&repo=Learning_Languages&show_owner=true&theme=vue )](https://github.com/grapemoli/Learning_Languages)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=grapemoli&repo=Java_Problems&show_owner=true&theme=vue )](https://github.com/grapemoli/Java_Problems)
+-->
