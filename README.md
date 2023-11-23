@@ -49,7 +49,7 @@ Website? W.I.P.
 <details>
   <summary><h4>More Information</h4></summary>
   <h3> Schoolwork </h3>
-  <b> Relevant Courses: </b> Data Structures, Principles of Software Design, Principles of SWE, Oracle Programming
+  <b> Relevant Courses: </b> Data Structures, Principles of Software Design, Principles of SWE, Principles of Computer Networking
   <br>
   
   <h3> Contact Me </h3> 
