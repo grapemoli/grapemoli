@@ -16,7 +16,7 @@ Website? W.I.P.
  !-- and aligned with Github Language Widget.
   -->
   
-
+<!--
 <a href="https://github.com/anuraghazra/convoychat">
   <picture>
   <source align="center" srcset="https://github-readme-stats.vercel.app/api?username=grapemoli&show_icons=true&hide_border=true&theme=flag-india"
@@ -27,6 +27,7 @@ Website? W.I.P.
         media="" />
   </picture>
 </a>
+-->
      
 <!-- Github Language Widget
  !-- Provided by https://github.com/anuraghazra/github-readme-stats#responsive-card-theme
