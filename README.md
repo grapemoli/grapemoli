@@ -16,7 +16,7 @@ Website? W.I.P.
  !-- and aligned with Github Language Widget.
   -->
   
-<!--
+
 <a href="https://github.com/anuraghazra/convoychat">
   <picture>
   <source align="center" srcset="https://github-readme-stats.vercel.app/api?username=grapemoli&show_icons=true&hide_border=true&theme=flag-india"
@@ -27,7 +27,6 @@ Website? W.I.P.
         media="" />
   </picture>
 </a>
--->
      
 <!-- Github Language Widget
  !-- Provided by https://github.com/anuraghazra/github-readme-stats#responsive-card-theme
@@ -68,7 +67,7 @@ Website? W.I.P.
 <!-- Github Widget
        !-- Provided by https://github.com/anuraghazra/github-readme-stats#responsive-card-theme
         -->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=grapemoli&repo=p2p_chat&show_owner=true&theme=swift)]([https://github.com/grapemoli/p2p-chat](https://github.com/grapemoli/p2p_chat/tree/main))
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=grapemoli&repo=p2p_chat&show_owner=true&theme=swift)]([https://github.com/grapemoli/p2p-chat](https://github.com/grapemoli/p2p_chat)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=grapemoli&repo=Webmaster_Hackathon&show_owner=true&theme=swift)](https://github.com/grapemoli/Webmaster_Hackathon)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=grapemoli&repo=PokeDex&show_owner=true&theme=swift)](https://github.com/grapemoli/PokeDex)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=grapemoli&repo=MGOT&show_owner=true&theme=swift)](https://github.com/grapemoli/MGOT)
