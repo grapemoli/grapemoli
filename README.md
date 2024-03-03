@@ -3,8 +3,6 @@
 ## Greetings! 👋
 Hi! I am a Senior working towards a BS in Computer Science. The name is inspired by grapes and guacamoli. Both are great.  :relaxed:
 
-Website? W.I.P.
-
 <br>
 
 <!-- HTML for the Widgets Layout -->
@@ -60,8 +58,7 @@ Website? W.I.P.
  <br>
 
 
-## Projects of Interest
-### Major Projects
+## Check Out My Projects!
 <!-- Github Widget
        !-- Provided by https://github.com/anuraghazra/github-readme-stats#responsive-card-theme
         -->
