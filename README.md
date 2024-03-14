@@ -34,7 +34,6 @@ Hi! The name is inspired by grapes and guacamoli. Both are great.  :relaxed:
  !-- Provided by https://github.com/anuraghazra/github-readme-stats#responsive-card-theme
  !-- Made responsive to different browser themes.
   -->
-These stats are actually slightly skewed! Most of my projects feature JavaScript and more recently Solidity!
 <a href="https://github.com/anuraghazra/convoychat">
   <picture>
   <source align="center" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=grapemoli&show_icons=true&layout=compact&hide_border=true&count_private=true&theme=flag-india"
