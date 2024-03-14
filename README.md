@@ -7,6 +7,7 @@ Hi! The name is inspired by grapes and guacamoli. Both are great.  :relaxed:
 
 <br>
 
+### Fun Stats
 <!-- HTML for the Widgets Layout -->
 <!-- Themes were chosen, to the best of my ability, by 508 Compliance and accessibility design standards -->
 
@@ -16,7 +17,6 @@ Hi! The name is inspired by grapes and guacamoli. Both are great.  :relaxed:
  !-- and aligned with Github Language Widget.
   -->
   
-<!--
 <a href="https://github.com/anuraghazra/convoychat">
   <picture>
   <source align="center" srcset="https://github-readme-stats.vercel.app/api?username=grapemoli&show_icons=true&hide_border=true&theme=flag-india"
@@ -27,7 +27,6 @@ Hi! The name is inspired by grapes and guacamoli. Both are great.  :relaxed:
         media="" />
   </picture>
 </a>
--->
      
 <!-- Github Language Widget
  !-- Provided by https://github.com/anuraghazra/github-readme-stats#responsive-card-theme
@@ -47,9 +46,10 @@ Hi! The name is inspired by grapes and guacamoli. Both are great.  :relaxed:
 <br>
 
 <!-- Contact Information -->
-<h4>Contact Me</h4>
-<ul><a href="https://www.linkedin.com/in/grapemoli/"><b>LinkedIn</b></a></ul>
-  <ul><b>Email:</b> gtnguyen@iu.edu</ul>
+## Contact Me
+- [**LinkedIn**](https://www.linkedin.com/in/grapemoli/)
+- **Email:** gtnguyen@iu.edu
+
  
  <br>
 
