@@ -5,8 +5,6 @@
 ## Greetings! 👋
 Hi! The name is inspired by grapes and guacamoli. Both are great.  :relaxed:
 
-<br>
-
 ### Fun Stats
 <!-- HTML for the Widgets Layout -->
 <!-- Themes were chosen, to the best of my ability, by 508 Compliance and accessibility design standards -->
@@ -61,8 +59,8 @@ Hi! The name is inspired by grapes and guacamoli. Both are great.  :relaxed:
 
 ## Check Out My Projects!
 <!-- Github Widget
-       !-- Provided by https://github.com/anuraghazra/github-readme-stats#responsive-card-theme
-        -->
+ !-- Provided by https://github.com/anuraghazra/github-readme-stats#responsive-card-theme
+ -->
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=grapemoli&repo=dangee&show_owner=true&theme=swift)](https://github.com/grapemoli/dangee)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=grapemoli&repo=translit&show_owner=true&theme=swift)](https://github.com/grapemoli/translit)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=grapemoli&repo=p2p_chat&show_owner=true&theme=swift)](https://github.com/grapemoli/p2p_chat)
