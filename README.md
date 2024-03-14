@@ -16,7 +16,9 @@ Hi! The name is inspired by grapes and guacamoli. Both are great.  :relaxed:
  !-- Made responsive to different background themes for better contrast,
  !-- and aligned with Github Language Widget.
   -->
-  
+
+
+<!--
 <a href="https://github.com/anuraghazra/convoychat">
   <picture>
   <source align="center" srcset="https://github-readme-stats.vercel.app/api?username=grapemoli&show_icons=true&hide_border=true&theme=flag-india"
@@ -27,6 +29,7 @@ Hi! The name is inspired by grapes and guacamoli. Both are great.  :relaxed:
         media="" />
   </picture>
 </a>
+-->
      
 <!-- Github Language Widget
  !-- Provided by https://github.com/anuraghazra/github-readme-stats#responsive-card-theme
@@ -43,7 +46,9 @@ Hi! The name is inspired by grapes and guacamoli. Both are great.  :relaxed:
   </picture>
 </a>
 
+
 <br>
+
 
 <!-- Contact Information -->
 ## Contact Me
@@ -58,9 +63,10 @@ Hi! The name is inspired by grapes and guacamoli. Both are great.  :relaxed:
 <!-- Github Widget
        !-- Provided by https://github.com/anuraghazra/github-readme-stats#responsive-card-theme
         -->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=grapemoli&repo=dangee&show_owner=true&theme=swift)](https://github.com/grapemoli/dangee)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=grapemoli&repo=translit&show_owner=true&theme=swift)](https://github.com/grapemoli/translit)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=grapemoli&repo=p2p_chat&show_owner=true&theme=swift)](https://github.com/grapemoli/p2p_chat)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=grapemoli&repo=Webmaster_Hackathon&show_owner=true&theme=swift)](https://github.com/grapemoli/Webmaster_Hackathon)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=grapemoli&repo=PokeDex&show_owner=true&theme=swift)](https://github.com/grapemoli/PokeDex)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=grapemoli&repo=MGOT&show_owner=true&theme=swift)](https://github.com/grapemoli/MGOT)
 
 <br><br>
