@@ -1,7 +1,9 @@
+<!--
 ![image](https://user-images.githubusercontent.com/105399768/218372462-0ab613fb-f806-4f55-8723-c7205fe3f7b2.png)
+-->
 
 ## Greetings! 👋
-Hi! I am a Senior working towards a BS in Computer Science. The name is inspired by grapes and guacamoli. Both are great.  :relaxed:
+Hi! The name is inspired by grapes and guacamoli. Both are great.  :relaxed:
 
 <br>
 
@@ -46,13 +48,11 @@ Hi! I am a Senior working towards a BS in Computer Science. The name is inspired
 
 <!-- Details Collapsable: Schoolwork & Contact Information -->
 <details>
-  <summary><h4>More Information</h4></summary>
-  
-  <h3> Contact Me </h3> 
-  <i>I have privated repositories that demonstrate good software design principles and patterns, such as the SOLID principle and several patterns outlined in "Design Patterns: Elements of Reusable Object-Oriented Software."
-    <br>
-    For more information, please contact me at <a href="https://www.linkedin.com/in/grapemoli/">LinkedIn</a>.
-  </i>
+  <summary><h4>Contact Me</h4></summary>
+
+  <ul><a href="https://www.linkedin.com/in/grapemoli/">LinkedIn</a></ul>
+  <ul>Email: gtnguyen@iu.edu</ul>
+   
  </details>
  
  <br>
