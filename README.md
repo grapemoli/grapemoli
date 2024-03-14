@@ -46,14 +46,10 @@ Hi! The name is inspired by grapes and guacamoli. Both are great.  :relaxed:
 
 <br>
 
-<!-- Details Collapsable: Schoolwork & Contact Information -->
-<details>
-  <summary><h4>Contact Me</h4></summary>
-
-  <ul><a href="https://www.linkedin.com/in/grapemoli/">LinkedIn</a></ul>
-  <ul>Email: gtnguyen@iu.edu</ul>
-   
- </details>
+<!-- Contact Information -->
+<h4>Contact Me</h4>
+<ul><a href="https://www.linkedin.com/in/grapemoli/"><b>LinkedIn</b></a></ul>
+  <ul><b>Email:</b> gtnguyen@iu.edu</ul>
  
  <br>
 
