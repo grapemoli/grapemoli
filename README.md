@@ -63,7 +63,7 @@ Hi! The name is inspired by grapes and guacamoli. Both are great.  :relaxed:
  !-- Provided by https://github.com/anuraghazra/github-readme-stats#responsive-card-theme
  -->
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=grapemoli&repo=dangee&show_owner=true&theme=swift)](https://github.com/grapemoli/dangee)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=grapemoli&repo=translit-expres&show_owner=true&theme=swift)](https://github.com/grapemoli/translit-express)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=grapemoli&repo=translit_expres&show_owner=true&theme=swift)](https://github.com/grapemoli/translit_express)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=grapemoli&repo=p2p_chat&show_owner=true&theme=swift)](https://github.com/grapemoli/p2p_chat)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=grapemoli&repo=Webmaster_Hackathon&show_owner=true&theme=swift)](https://github.com/grapemoli/Webmaster_Hackathon)
 
